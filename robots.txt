@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esnafailesi.com.tr/sitemap.xml
